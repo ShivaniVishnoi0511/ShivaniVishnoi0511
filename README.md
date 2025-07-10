@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Hi, I'm Shivani Vishnoi!
 
-<!--
-**ShivaniVishnoi0511/ShivaniVishnoi0511** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MCA Student at Kamla Nehru Institute of Technology, Sultanpur  
+💻 Passionate about Web Development & Software Engineering  
+🚀 Currently building: MindSprint - A Quiz Web App
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Projects
+
+- [💡 Personal Portfolio](https://github.com/ShivaniVishnoi0511/personal-portfolio)
+- [📊 Expense Tracker](https://github.com/ShivaniVishnoi0511/expenses-tracker)
+- [🎮 Snake Game](https://github.com/ShivaniVishnoi0511/snake-game)
+
+---
+
+## 🧠 Skills
+- **Frontend:** HTML, CSS, JavaScript
+- **Backend:** Node.js (learning), Python (basic)
+- **Tools:** Git, GitHub, VS Code, Figma
+
+---
+
+
+---
+
+## 📫 Connect with Me
+- LinkedIn: [Shivani Vishnoi](www.linkedin.com/in/shivani-vishnoi-8ab78733a)
+- GitHub: [@ShivaniVishnoi0511](https://github.com/ShivaniVishnoi0511)
