@@ -2,7 +2,7 @@
 
 🎓 MCA Student at Kamla Nehru Institute of Technology, Sultanpur  
 💻 Passionate about Web Development & Software Engineering  
-🚀 Currently building: MindSprint - A Quiz Web App
+
 
 ---
 
@@ -15,9 +15,31 @@
 ---
 
 ## 🧠 Skills
-- **Frontend:** HTML, CSS, JavaScript
-- **Backend:** Node.js (learning), Python (basic)
-- **Tools:** Git, GitHub, VS Code, Figma
+
+### Frontend
+- HTML5
+- CSS3
+- JavaScript (ES6+)
+- React.js
+- Tailwind CSS
+- Responsive Web Design
+
+### Backend
+- Node.js
+- Express.js
+- REST APIs
+- Authentication & Authorization
+
+### Database
+- MongoDB
+- SQL
+
+### Tools & Technologies
+- Git
+- GitHub
+- VS Code
+- Postman
+- Figma
 
 ---
 
